@@ -221,3 +221,19 @@ def annotate_frame(lbl, wrkr_id_save_dir, point_x, point_y, frame_number, agent,
 | `metadata/validation_videos_ids_labeled.json`       | IDs of labeled videos in the validation set.                                                  |
 | `metadata/test_videos_ids_labeled.json`             | IDs of labeled videos in the test set.                                                  |
 
+---
+
+## Citation
+
+If you find this work useful in your research, please cite:
+
+```bibtex
+@InProceedings{harari2026probing,
+    title     = {Action without interaction: probing the physical foundations of video LMMs via contact-release detection},
+    author    = {Daniel Harari, Michael Sidorov, Chen Shterental, Liel David, Abrham Kahsay Gebreselasie and Muhammad Haris Khan},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026, pp. 11058-11067},
+    year      = {2026}
+}
+```
+
+---
